@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://contano.xyz/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://contano.xyz/</loc>
+</url>
+<url>
+<loc>https://contano.xyz/czekajac-w-bramie-na-decydujacy-moment.html</loc>
+<lastmod>2024-02-22T18:02:57+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.xyz/media/posts/18/krakow18.jpg</image:loc>
+<image:title><![CDATA[street photo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.xyz/jak-oni-symetrycznie-stoja.html</loc>
+<lastmod>2024-02-22T18:05:31+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.xyz/media/posts/20/gdansk8.jpg</image:loc>
+<image:title><![CDATA[Gdańsk]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.xyz/krakow-w-barwach-nocy.html</loc>
+<lastmod>2024-02-22T18:01:29+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.xyz/media/posts/17/krakow15.jpg</image:loc>
+<image:title><![CDATA[fotografia nocna]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.xyz/obiektyw-ktory-namalowal-mi-kwiat.html</loc>
+<lastmod>2024-02-22T18:03:30+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.xyz/media/posts/19/kwiaty6.jpg</image:loc>
+<image:title><![CDATA[kwiaty - fotografia zbliżeniowa]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.xyz/przez-nieuwage-wszedlem-w-kaluze-i.html</loc>
+<lastmod>2024-02-22T17:59:13+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.xyz/media/posts/16/krakow14.jpg</image:loc>
+<image:title><![CDATA[fotografia nocna]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.xyz/tworzymy-wieloswiat-bez-uzycia-wielokrotnej-ekspozycji.html</loc>
+<lastmod>2024-02-22T17:58:05+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.xyz/media/posts/15/krakow12.jpg</image:loc>
+<image:title><![CDATA[konceptualny wieloświat]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.xyz/w-gdanskiej-restauracji-wieczorowa-pora.html</loc>
+<lastmod>2024-02-22T18:07:13+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.xyz/media/posts/21/gdansk10.jpg</image:loc>
+<image:title><![CDATA[Gdańsk]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.xyz/w-poszukiwaniu-geometrii.html</loc>
+<lastmod>2024-02-22T17:57:01+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.xyz/media/posts/14/krakow4.jpg</image:loc>
+<image:title><![CDATA[Kraków zimową porą]]></image:title>
+</image:image>
+</url>
+</urlset>
