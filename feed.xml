@@ -3,7 +3,7 @@
     <title>contano</title>
     <link href="https://contano.xyz/feed.xml" rel="self" />
     <link href="https://contano.xyz" />
-    <updated>2024-02-22T21:59:07+01:00</updated>
+    <updated>2024-02-22T22:42:10+01:00</updated>
     <author>
         <name>Contano</name>
     </author>
@@ -128,6 +128,64 @@
         </content>
     </entry>
     <entry>
+        <title>Obiektyw, który namalował mi kwiat</title>
+        <author>
+            <name>Contano</name>
+        </author>
+        <link href="https://contano.xyz/obiektyw-ktory-namalowal-mi-kwiat.html"/>
+        <id>https://contano.xyz/obiektyw-ktory-namalowal-mi-kwiat.html</id>
+        <media:content url="https://contano.xyz/media/posts/19/kwiaty6.jpg" medium="image" />
+            <category term="kwiaty"/>
+            <category term="fotografia zbliżeniowa"/>
+            <category term="Sony A7"/>
+            <category term="Olympus OM Zuiko 50mm F3.5 macro 1:2"/>
+
+        <updated>2024-02-22T22:42:10+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://contano.xyz/media/posts/19/kwiaty6.jpg" alt="kwiaty - fotografia zbliżeniowa" />
+                    Bardzo lubię fotografować kwiaty. Jest to wspaniałe doświadczenie zwłaszcza wiosną, gdy przyroda budzi się do życia a barwy stają się&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://contano.xyz/media/posts/19/kwiaty6.jpg" class="type:primaryImage" alt="kwiaty - fotografia zbliżeniowa" /></p>
+                
+  <p>
+    Bardzo lubię fotografować kwiaty. Jest to wspaniałe doświadczenie zwłaszcza wiosną, gdy przyroda budzi się do życia a barwy stają się żywe i soczyste. Gdy promienie wiosennego słońca zaglądają do przydomowego ogródka, pojawiam się tam z aparatem, aby uwiecznić ten spektakl witalności.
+  </p>
+
+    <h2 id="magia-starego-manualnego-szkla">
+      Magia starego, manualnego szkła
+    </h2>
+
+  <p>
+    Do zrobienia tego zdjęcia wybrałem obiektyw Olympus OM Zuiko 50mm F3.5 macro 1:2, podpięty do aparatu Sony A7. Jest to wiekowa już konstrukcja z analogowego, lustrzankowego systemu Olympusa.
+  </p>
+
+  <p>
+    Większość współczesnych obiektywów makro można kupić ze światłem F2.8. Ten jest więc jak na obecne realia stosunkowo ciemny. Nie przeszkadza mi to jednak, ponieważ obrazek, który generuje, jest w mojej opinii fantastyczny. Cechuje go specyficzny, malarski charakter. Bokeh nie jest idealnie gładki. Lekka chropowatość obrazu robi wrażenie większej trójwymiarowości a kolory są fantastyczne.
+  </p>
+
+  <p>
+    Wraz ze sprzedażą systemu Sony i przesiadce na Fujifilm X, sprzedałem również ten obiektyw i szczerze powiedziawszy, żałuje. No cóż, być może kupię go ponownie :)
+  </p>
+
+    <h2 id="technikalia">
+      Technikalia
+    </h2>
+
+  <p>
+    Zdjęcie zrobiłem w formacie RAW i poddałem obróbce z wykorzystaniem programów Adobe Lightroom Classic, VSCO Lightroom Presets i Adobe Photoshop.
+  </p>
+
+  <ul>
+    <li>ISO: 400</li><li>przysłona: F3.5</li><li>czas ekspozycji: 1/400 s</li><li>ogniskowa: 50 mm</li><li>kadrowanie: proporcja boków 3:2</li><li>rendering kolorów: symulacja filmu Fuji Provia 400X z pakietu VSCO dla programu Lightroom Classic (obecnie VSCO nie dostarcza już niestety tych wtyczek dla Lightroom’a)</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Czekając w bramie na decydujący moment</title>
         <author>
             <name>Contano</name>
@@ -186,64 +244,6 @@
 
   <ul>
     <li>ISO: 640</li><li>przysłona: F8</li><li>czas ekspozycji: 1/250 s</li><li>ogniskowa: 34.2 mm</li><li>kadrowanie: proporcja boków 2:3</li><li>rendering kolorów: symulacja filmu Fuji Superia X-Tra 400</li>
-  </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Obiektyw, który namalował mi kwiat</title>
-        <author>
-            <name>Contano</name>
-        </author>
-        <link href="https://contano.xyz/obiektyw-ktory-namalowal-mi-kwiat.html"/>
-        <id>https://contano.xyz/obiektyw-ktory-namalowal-mi-kwiat.html</id>
-        <media:content url="https://contano.xyz/media/posts/19/kwiaty6.jpg" medium="image" />
-            <category term="kwiaty"/>
-            <category term="fotografia zbliżeniowa"/>
-            <category term="Sony A7"/>
-            <category term="Olympus OM Zuiko 50mm F3.5 macro 1:2"/>
-
-        <updated>2024-02-22T18:03:30+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://contano.xyz/media/posts/19/kwiaty6.jpg" alt="kwiaty - fotografia zbliżeniowa" />
-                    Bardzo lubię fotografować kwiaty. Jest to wspaniałe doświadczenie zwłaszcza wiosną, gdy przyroda budzi się do życia a barwy stają się&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://contano.xyz/media/posts/19/kwiaty6.jpg" class="type:primaryImage" alt="kwiaty - fotografia zbliżeniowa" /></p>
-                
-  <p>
-    Bardzo lubię fotografować kwiaty. Jest to wspaniałe doświadczenie zwłaszcza wiosną, gdy przyroda budzi się do życia a barwy stają się żywe i soczyste. Gdy promienie wiosennego słońca zaglądają do przydomowego ogródka, pojawiam się tam z aparatem, aby uwiecznić ten spektakl witalności.
-  </p>
-
-    <h2 id="magia-starego-manualnego-szkla">
-      Magia starego, manualnego szkła
-    </h2>
-
-  <p>
-    Do zrobienia tego zdjęcia wybrałem obiektyw Olympus OM Zuiko 50mm F3.5 macro 1:2, podpięty do aparatu Sony A7. Jest to wiekowa już konstrukcja z analogowego, lustrzankowego systemu Olympusa.
-  </p>
-
-  <p>
-    Większość współczesnych obiektywów makro można kupić ze światłem F2.8. Ten jest więc jak na obecne realia stosunkowo ciemny. Nie przeszkadza mi to jednak, ponieważ obrazek, który generuje, jest w mojej opinii fantastyczny. Cechuje go specyficzny, malarski charakter. Bokeh nie jest idealnie gładki. Lekka chropowatość obrazu robi wrażenie większej trójwymiarowości a kolory są fantastyczne.
-  </p>
-
-  <p>
-    Wraz ze sprzedażą systemu Sony i przesiadce na Fujifilm X, sprzedałem również ten obiektyw i szczerze powiedziawszy, żałuje. No cóż, być może kupię go ponownie :)
-  </p>
-
-    <h2 id="technikalia">
-      Technikalia
-    </h2>
-
-  <p>
-    Zdjęcie zrobiłem w formacie RAW i poddałem obróbce z wykorzystaniem programów Adobe Lightroom Classic, VSCO Lightroom Presets i Adobe Photoshop.
-  </p>
-
-  <ul>
-    <li>ISO: 400</li><li>przysłona: F3.5</li><li>czas ekspozycji: 1/400 s</li><li>ogniskowa: 50 mm</li><li>kadrowanie: proporcja boków 3:2</li><li>rendering kolorów: symulacja filmu Fuji Provia 400X z pakietu VSCO dla programu Lightroom Classic (obecnie VSCO nie dostarcza już niestety tych wtyczek dla Lightroom’a)</li>
   </ul>
             ]]>
         </content>
