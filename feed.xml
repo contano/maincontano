@@ -3,7 +3,7 @@
     <title>contano</title>
     <link href="https://contano.xyz/feed.xml" rel="self" />
     <link href="https://contano.xyz" />
-    <updated>2024-02-22T22:42:10+01:00</updated>
+    <updated>2024-10-14T13:20:35+02:00</updated>
     <author>
         <name>Contano</name>
     </author>
@@ -16,7 +16,7 @@
         </author>
         <link href="https://contano.xyz/w-gdanskiej-restauracji-wieczorowa-pora.html"/>
         <id>https://contano.xyz/w-gdanskiej-restauracji-wieczorowa-pora.html</id>
-        <media:content url="https://contano.xyz/media/posts/21/gdansk10.jpg" medium="image" />
+        <media:content url="https://contano.xyz/media/posts/21/w-gdanskiej-restauracji.jpg" medium="image" />
             <category term="street photo"/>
             <category term="pejzaż miejski"/>
             <category term="Viltrox 23mm F1.4"/>
@@ -26,13 +26,13 @@
         <updated>2024-02-22T16:15:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.xyz/media/posts/21/gdansk10.jpg" alt="Gdańsk" />
+                        <img src="https://contano.xyz/media/posts/21/w-gdanskiej-restauracji.jpg" alt="w gdańskiej restauracji" />
                     Przedstawiam tutaj kolejne zdjęcie z wypadu do Gdańska. Zrobiłem je w ciepły letni wieczór, podczas niebieskiej godziny, gdy ostatnie promienie&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.xyz/media/posts/21/gdansk10.jpg" class="type:primaryImage" alt="Gdańsk" /></p>
+                    <p><img src="https://contano.xyz/media/posts/21/w-gdanskiej-restauracji.jpg" class="type:primaryImage" alt="w gdańskiej restauracji" /></p>
                 
   <p>
     Przedstawiam tutaj kolejne zdjęcie z wypadu do Gdańska. Zrobiłem je w ciepły letni wieczór, podczas niebieskiej godziny, gdy ostatnie promienie skrywającego się za horyzontem słońca mieszają się ze sztucznym oświetleniem. Powiem szczerze, że jest to moja ulubiona pora na fotografowanie miejskich scenerii. Bardzo lubię, gdy resztki naturalnego światła dziennego łączą się ze światłem lamp.
@@ -75,7 +75,7 @@
         </author>
         <link href="https://contano.xyz/jak-oni-symetrycznie-stoja.html"/>
         <id>https://contano.xyz/jak-oni-symetrycznie-stoja.html</id>
-        <media:content url="https://contano.xyz/media/posts/20/gdansk8.jpg" medium="image" />
+        <media:content url="https://contano.xyz/media/posts/20/symetrycznie-stoja.jpg" medium="image" />
             <category term="street photo"/>
             <category term="pejzaż miejski"/>
             <category term="Viltrox 23mm F1.4"/>
@@ -85,13 +85,13 @@
         <updated>2024-02-21T22:14:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.xyz/media/posts/20/gdansk8.jpg" alt="Gdańsk" />
+                        <img src="https://contano.xyz/media/posts/20/symetrycznie-stoja.jpg" alt="Gdańsk - street photo" />
                     Decydujący moment ma to do siebie, że czasem trzeba go wyczekać. Zdarzają się jednak sytuacje, w których pojawia się znienacka.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.xyz/media/posts/20/gdansk8.jpg" class="type:primaryImage" alt="Gdańsk" /></p>
+                    <p><img src="https://contano.xyz/media/posts/20/symetrycznie-stoja.jpg" class="type:primaryImage" alt="Gdańsk - street photo" /></p>
                 
   <p>
     Decydujący moment ma to do siebie, że czasem trzeba go wyczekać. Zdarzają się jednak sytuacje, w których pojawia się znienacka. Tak było tym razem, gdy wraz z rodziną spacerowałem uliczkami Gdańska.
@@ -192,7 +192,7 @@
         </author>
         <link href="https://contano.xyz/czekajac-w-bramie-na-decydujacy-moment.html"/>
         <id>https://contano.xyz/czekajac-w-bramie-na-decydujacy-moment.html</id>
-        <media:content url="https://contano.xyz/media/posts/18/krakow18.jpg" medium="image" />
+        <media:content url="https://contano.xyz/media/posts/18/brama-decydujacy-moment.jpg" medium="image" />
             <category term="street photo"/>
             <category term="pejzaż miejski"/>
             <category term="Kraków"/>
@@ -202,13 +202,13 @@
         <updated>2024-02-20T22:12:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.xyz/media/posts/18/krakow18.jpg" alt="street photo" />
+                        <img src="https://contano.xyz/media/posts/18/brama-decydujacy-moment.jpg" alt="street photo w Krakowie" />
                     Zrobienie zdjęcia na Wawelu, w szczycie sezonu turystycznego, w którym panowałby porządek, nie należy do zadań łatwych. Tłumy pędzących turystów&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.xyz/media/posts/18/krakow18.jpg" class="type:primaryImage" alt="street photo" /></p>
+                    <p><img src="https://contano.xyz/media/posts/18/brama-decydujacy-moment.jpg" class="type:primaryImage" alt="street photo w Krakowie" /></p>
                 
   <p>
     Zrobienie zdjęcia na Wawelu, w szczycie sezonu turystycznego, w którym panowałby porządek, nie należy do zadań łatwych. Tłumy pędzących turystów stanowią w takiej sytuacji nie lada wyzwanie. Prezentowaną tutaj fotografię zrobiłem w czerwcowe popołudnie podczas spaceru po wawelskim dziedzińcu.
@@ -255,7 +255,7 @@
         </author>
         <link href="https://contano.xyz/krakow-w-barwach-nocy.html"/>
         <id>https://contano.xyz/krakow-w-barwach-nocy.html</id>
-        <media:content url="https://contano.xyz/media/posts/17/krakow15.jpg" medium="image" />
+        <media:content url="https://contano.xyz/media/posts/17/jubilat-krk-noc.jpg" medium="image" />
             <category term="pejzaż miejski"/>
             <category term="fotografia nocna"/>
             <category term="Kraków"/>
@@ -265,13 +265,13 @@
         <updated>2024-02-19T22:11:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.xyz/media/posts/17/krakow15.jpg" alt="fotografia nocna" />
+                        <img src="https://contano.xyz/media/posts/17/jubilat-krk-noc.jpg" alt="fotografia nocna w Krakowie" />
                     Prezentuję tutaj kolejne zdjęcie, które zrobiłem w Krakowie podczas nocnego spaceru. Noc w mieście rozświetlonym różnokolorowym światłem daje kapitalne możliwości&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.xyz/media/posts/17/krakow15.jpg" class="type:primaryImage" alt="fotografia nocna" /></p>
+                    <p><img src="https://contano.xyz/media/posts/17/jubilat-krk-noc.jpg" class="type:primaryImage" alt="fotografia nocna w Krakowie" /></p>
                 
   <p>
     Prezentuję tutaj kolejne zdjęcie, które zrobiłem w Krakowie podczas nocnego spaceru. Noc w mieście rozświetlonym różnokolorowym światłem daje kapitalne możliwości kreacji fotograficznej. To co w ciągu dnia wydaje się być mało interesujące, nocą nabiera nowego charakteru. Dzieje się to głównie za sprawą sztucznego oświetlenia, które przenika przestrzeń.
@@ -310,7 +310,7 @@
         </author>
         <link href="https://contano.xyz/przez-nieuwage-wszedlem-w-kaluze-i.html"/>
         <id>https://contano.xyz/przez-nieuwage-wszedlem-w-kaluze-i.html</id>
-        <media:content url="https://contano.xyz/media/posts/16/krakow14.jpg" medium="image" />
+        <media:content url="https://contano.xyz/media/posts/16/kaluza-noc-most.jpg" medium="image" />
             <category term="pejzaż miejski"/>
             <category term="fotografia nocna"/>
             <category term="Kraków"/>
@@ -320,13 +320,13 @@
         <updated>2024-02-19T22:10:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.xyz/media/posts/16/krakow14.jpg" alt="fotografia nocna" />
+                        <img src="https://contano.xyz/media/posts/16/kaluza-noc-most.jpg" alt="Kraków - fotografia nocna" />
                     To był długi dzień. Robiłem z koleżanką sesję zdjęciową w Krakowie. Chodziliśmy po różnych zakamarkach miasta a ona jak zawsze&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.xyz/media/posts/16/krakow14.jpg" class="type:primaryImage" alt="fotografia nocna" /></p>
+                    <p><img src="https://contano.xyz/media/posts/16/kaluza-noc-most.jpg" class="type:primaryImage" alt="Kraków - fotografia nocna" /></p>
                 
   <p>
     To był długi dzień. Robiłem z koleżanką sesję zdjęciową w Krakowie. Chodziliśmy po różnych zakamarkach miasta a ona jak zawsze dzielnie mi pozowała, wkładając przy tym mnóstwo twórczej inicjatywy i pozytywnej energii.
@@ -369,7 +369,7 @@
         </author>
         <link href="https://contano.xyz/tworzymy-wieloswiat-bez-uzycia-wielokrotnej-ekspozycji.html"/>
         <id>https://contano.xyz/tworzymy-wieloswiat-bez-uzycia-wielokrotnej-ekspozycji.html</id>
-        <media:content url="https://contano.xyz/media/posts/15/krakow12.jpg" medium="image" />
+        <media:content url="https://contano.xyz/media/posts/15/wieloswiat.jpg" medium="image" />
             <category term="pejzaż miejski"/>
             <category term="fotografia konceptualna"/>
             <category term="Kraków"/>
@@ -379,13 +379,13 @@
         <updated>2024-02-12T22:09:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.xyz/media/posts/15/krakow12.jpg" alt="konceptualny wieloświat" />
+                        <img src="https://contano.xyz/media/posts/15/wieloswiat.jpg" alt="konceptualny wieloświat" />
                     Lubię eksperymentować z różnymi technikami fotograficznymi. Szczególną przestrzeń do takich działań daje fotografia analogowa, ale w świecie cyfrowym także mamy&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.xyz/media/posts/15/krakow12.jpg" class="type:primaryImage" alt="konceptualny wieloświat" /></p>
+                    <p><img src="https://contano.xyz/media/posts/15/wieloswiat.jpg" class="type:primaryImage" alt="konceptualny wieloświat" /></p>
                 
   <p>
     Lubię eksperymentować z różnymi technikami fotograficznymi. Szczególną przestrzeń do takich działań daje fotografia analogowa, ale w świecie cyfrowym także mamy spore pole do popisu.
@@ -432,7 +432,7 @@
         </author>
         <link href="https://contano.xyz/w-poszukiwaniu-geometrii.html"/>
         <id>https://contano.xyz/w-poszukiwaniu-geometrii.html</id>
-        <media:content url="https://contano.xyz/media/posts/14/krakow4.jpg" medium="image" />
+        <media:content url="https://contano.xyz/media/posts/14/w-poszukiwaniu-geometrii.jpg" medium="image" />
             <category term="pejzaż miejski"/>
             <category term="Panasonic Lumix LX100"/>
             <category term="Kraków"/>
@@ -440,13 +440,13 @@
         <updated>2024-02-11T22:08:07+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.xyz/media/posts/14/krakow4.jpg" alt="Kraków zimową porą" />
+                        <img src="https://contano.xyz/media/posts/14/w-poszukiwaniu-geometrii.jpg" alt="Kraków zimową porą" />
                     Powiem szczerze, że niełatwo robi się zdjęcia w miejscu, które się bardzo dobrze zna. Gdy znajdujemy się w nowym otoczeniu,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.xyz/media/posts/14/krakow4.jpg" class="type:primaryImage" alt="Kraków zimową porą" /></p>
+                    <p><img src="https://contano.xyz/media/posts/14/w-poszukiwaniu-geometrii.jpg" class="type:primaryImage" alt="Kraków zimową porą" /></p>
                 
   <p>
     Powiem szczerze, że niełatwo robi się zdjęcia w miejscu, które się bardzo dobrze zna. Gdy znajdujemy się w nowym otoczeniu, zmysły są bardziej wyostrzone i dostrzegamy więcej. Z tego właśnie względu mój rodzinny Kraków, choć piękny, zawsze stanowi dla mnie nie lada fotograficzne wyzwanie. Chociaż od wielu lat już w Krakowie nie mieszkam, bywam tam często i jak tylko czas pozwoli, chwytam za aparat i fotografuję.
